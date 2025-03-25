@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=869ec1&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+name+isJuliaBonatto;I'm+17+years+old;I+from+Brazil,+SC;+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=869ec1&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is Julia Bonatto;I'm+17+years+old;I+from+Brazil,+SC;+Welcome!+:%29)](https://git.io/typing-svg)
 <br>
 <br>
  <a href="https://github.com/juliabonatto">
