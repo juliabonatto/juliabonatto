@@ -8,10 +8,8 @@
  <img loading="lazy" width="280" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliabonatto&layout=compact&langs_count=7&theme=onedark"/>
 </a>
 <a href="https://github.com/juliabonatto">
-  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=juliabonatto&show_icons=true&theme=onedark&date_format=j%20M%5B%20Y%5D" width="278" />
+  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=juliabonatto&show_icons=true&theme=onedark&date_format=j%20M%5B%20Y%5D" width="270" />
 </a>
-
-
 </div>
 <h2>Contacts❄</h2> 
 
